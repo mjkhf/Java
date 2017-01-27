@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="System.out" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="system.out"/>
+			<item value="create a residual"/>
+			<item value="main"/>
+			<item value="test1"/>
+			<item value="source"/>
+			<item value="scanner"/>
+			<item value="EvenMultofFour"/>
+			<item value="MultofFour"/>
+		</list>
+		<list key="replacehistory">
+			<item value="MultofFour"/>
+			<item value="EvenMultFour"/>
+			<item value="MultofTwo"/>
+			<item value="matrix"/>
+			<item value="minimum"/>
+			<item value="previous"/>
+			<item value="parsed"/>
+			<item value="dist"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="265" key="DIALOG_WIDTH"/>
+		<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText" key="DIALOG_FONT_NAME"/>
+		<item value="399" key="DIALOG_HEIGHT"/>
+		<item value="835" key="DIALOG_X_ORIGIN"/>
+		<item value="99" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
